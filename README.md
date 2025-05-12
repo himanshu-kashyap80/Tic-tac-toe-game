@@ -1,1 +1,1 @@
-# Tic-tac-toe-game
+This is a **Tic Tac Toe game** developed using Java, designed for two players to play alternately on the console. It showcases basic programming concepts like loops, conditionals, arrays, and functions in Java. The game checks for winning conditions after each move and declares the result as a win or draw. It's a beginner-friendly project that strengthens core Java skills through interactive gameplay.
